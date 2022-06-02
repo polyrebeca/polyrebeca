@@ -1,0 +1,4 @@
+- 👋 ola,meu nome e @polyrebeca
+- 👀 meu e-mail de contato e polyane.pedro@escola .pr.gov.br
+- 🌱 estou interessada em aprender a programar novas linguagens 
+- 💞️ estou aprendendo a programar recentemente a linguagem de javascript e scratch
